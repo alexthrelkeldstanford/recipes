@@ -1,3 +1,4 @@
 *.png
 pictures/
 log*
+.Rproj.user
